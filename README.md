@@ -15,6 +15,9 @@ Don’t have any mechanics on your server? then this Script is for you xD...!
 
 Basically it a Standalone just remove server.lua it will be Standalone , But for now its QB it compatible with ESX with a few tweaks in server.lua. 
 
+<a href="https://github.com/DrChamp1/og-npcmechanic">
+    <img src="https://https://forum.cfx.re/uploads/default/original/4X/4/f/1/4f19d63583f91c115af928cf42882fcd410af8dc.jpeg">
+ </a>
 
 ## Installation
 - Add this in your `server.cfg`:
