@@ -4,7 +4,7 @@ Don’t have any mechanics on your server? then this Script is for you xD...!
 -------------------------------------------------------------------------------------------------------------------
 
 # Features-
--This Script is Optimized [0.01ms/0.02ms]
+-This Script is Optimized [0.012ms/0.02ms]
 
 -Create your own Mechanics in the config.lua file! [Need Scripting Knowledge]
 
