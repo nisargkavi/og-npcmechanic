@@ -8,7 +8,7 @@ Don’t have any mechanics on your server? then this Script is for you xD...!
 
 -Create your own Mechanics in the config.lua file! [Need Scripting Knowledge]
 
--Do /callmechanic to call in an npc Mechanic then a npc come and Repairs your car to Acceptable condition!
+-Do /callmechanic to call an npc Mechanic then a npc come and Repairs your car to Acceptable condition!
 
 -After Mechanic Done with his Works He Will Charge Some Bucks!! xD...... You Can Change Charges! [Need Scripting Knowledge]
 
