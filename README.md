@@ -16,7 +16,8 @@ Don’t have any mechanics on your server? then this Script is for you xD...!
 Basically it a Standalone just remove server.lua it will be Standalone , But for now its QB! it can be compatible with ESX with a few tweaks in server.lua. 
 
 
-```ESX = nil
+```
+ESX = nil
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 RegisterNetEvent('knb:mech:pay')
@@ -27,7 +28,8 @@ AddEventHandler('knb:mech:pay', function()
     if Player.getMoney > 250 then
     Player.RemoveMoney('cash', 250)
     end
-end)```
+end)
+```
 
 
 ## Installation
