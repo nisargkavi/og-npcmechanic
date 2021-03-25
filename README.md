@@ -13,7 +13,7 @@ Don’t have any mechanics on your server? then this Script is for you xD...!
 -After Mechanic Done with his Works He Will Charge Some Bucks!! xD...... You Can Change Charges! [Need Scripting Knowledge]
 
 
-Basically it a Standalone just remove server.lua it will be Standalone , But for now its QB! it can be compatible with ESX with a few tweaks in server.lua. See Below
+Basically it a Standalone just remove server.lua it will be Standalone , But for now its QBus! it can be compatible with ESX with a few tweaks in server.lua. See Below
 
 
 ```
