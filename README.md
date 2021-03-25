@@ -32,7 +32,7 @@ end)
 ```
 
 
-## Installation
+## Installation-
 - Add this in your `server.cfg`:
 
 ```lua
